@@ -2,8 +2,8 @@
 
 <h2>Установка и запуск приложения</h2>
 <section><ul>
-<li>Клонируйте репозиторий<br><code>git clonehttps://github.com/CHRNVpy/cargo_rates.git</code></li>
-<li>Перейдите в директорию репозитория<br><code>cd cargo-rates</code></li>
+<li>Клонируйте репозиторий<br><code>git clone https://github.com/CHRNVpy/cargo_rates.git</code></li>
+<li>Перейдите в директорию репозитория<br><code>cd cargo_rates</code></li>
 <li>Создайте Docker контейнер<br><code>docker-compose up</code></li>
 </ul>
 </section>
